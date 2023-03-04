@@ -19,6 +19,18 @@
     },
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "https://github.com/RadW2020"
+      },
+      {
+        "type": "other",
+        "URL": "https://radw2020.github.io/"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/4230807/radw2020"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/RadW2020"
       },
@@ -42,25 +54,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "RabbitMQ",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -72,7 +72,13 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       }
@@ -84,6 +90,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/raul-jimenez-martin-radw2020/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/4230807/radw2020"
         }
       ]
     },
