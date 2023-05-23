@@ -20,14 +20,7 @@
         "region": "Comunidad Valenciana",
         "municipality": "Valencia"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://radw2020.github.io/",
-        "description": "blog personal "
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -248,6 +241,10 @@
         {
           "URL": "https://www.linkedin.com/in/raul-jimenez-martin-radw2020/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/RadW2020",
+          "type": "other"
         }
       ],
       "contactMails": [
