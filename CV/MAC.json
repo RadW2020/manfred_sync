@@ -32,6 +32,24 @@
     "jobs": [
       {
         "organization": {
+          "name": "LORIOT"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2018-10-01",
+            "finishDate": "2019-11-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "VIEWNEXT"
         },
         "roles": [
