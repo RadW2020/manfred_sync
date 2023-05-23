@@ -10,6 +10,10 @@
       "surnames": "Jiménez Martín",
       "title": "Title",
       "description": "Llevo solo tres añitos en el mundo del desarrollo de software. \nEl primero de ellos en una consultora trabajando para un gran cliente operando su base de datos.\nEl segundo ya empecé en la empresa que estoy ahora tan estupenda de IoT. En este caso asumí el rol de Front Developer con Angular, que era una tecnología sobre la que me había formado por mi cuenta y se me daba bien.\nHace un año me ofrecieron pasar al backend y yo acepté con mucho gusto ya que me encanta.\nLlevo año y medio casi ya dedicado al completo al Backend con NodeJs trabajando para mejorar cada día un producto muy exigente. \nCiertamente no tengo muchos años de experiencia en la informática, pero por mi experiencia vital y profesional me podría considerar un senior al menos en espíritu :)\nLa empresa para la que trabajo es bastante internacional y eso me gusta, quiero que siga así en mi próximo destino. También el hecho de que sea una empresa que lucha por su propio producto es algo que me motiva mucho.\nMi mayor interes ahora mismo es profundizar al máximo en NodeJs y convertirme un experto en la materia. Es un camino largo y complejo pero me ilusiona es algo que me hace luchar por mejorar cada día.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/23/58f2e6d2-c9ab-4598-810c-b5810c4d95c9_avatar.jpeg",
+        "alt": "avatar.jpeg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
