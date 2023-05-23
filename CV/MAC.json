@@ -113,6 +113,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Mi trabajo ideal es trabajar en remoto para una empresa de producto e internacional, practicar inglés y conocer gente de otros paises es algo que me gusta.\n\nQue tenga un horario flexible en las entradas o salidas, para poder organizarme la vida mas fácil que con mujer e hijo se agradece mucho.\n\nQue la empresa haga eventos de grupo, presupuesto para formación, asistencia a eventos académicos y todo ese tipo de perks me gustan también. Creo que esto ayuda a seguir mejorando como profesional y facilita el día a día en las relaciones con los compañeros de trabajo.\n\nY por supuesto un buen sueldo para poder ofrecer a mi familia la mejor vida posible.\n\nCoverwallet_Mar21_LeadNode"
   }
 }
