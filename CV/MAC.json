@@ -32,6 +32,43 @@
     "jobs": [
       {
         "organization": {
+          "name": "Pulpo"
+        },
+        "roles": [
+          {
+            "name": "Sr Backend Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "LORIOT"
         },
         "roles": [
