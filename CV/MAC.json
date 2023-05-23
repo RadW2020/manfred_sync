@@ -28,6 +28,33 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "VIEWNEXT"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "Elaboración de ETLs con Oracle Data Integrator"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Oracle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
