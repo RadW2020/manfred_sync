@@ -89,6 +89,15 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "First Certificate in English B2",
+        "startDate": "2014-03-01",
+        "institution": {
+          "name": "Universidad de Cambridge"
+        }
       }
     ]
   },
