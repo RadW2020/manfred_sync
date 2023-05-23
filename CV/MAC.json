@@ -211,12 +211,13 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "First Certificate in English B2",
         "startDate": "2014-03-01",
         "institution": {
           "name": "Universidad de Cambridge"
-        }
+        },
+        "finishDate": "2014-03-01"
       }
     ],
     "softSkills": [
