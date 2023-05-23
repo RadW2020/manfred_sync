@@ -36,6 +36,40 @@
         },
         "roles": [
           {
+            "name": "Backend Developer",
+            "startDate": "2019-11-01",
+            "finishDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LORIOT"
+        },
+        "roles": [
+          {
             "name": "Frontend Developer",
             "startDate": "2018-10-01",
             "finishDate": "2019-11-01",
