@@ -67,6 +67,29 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FP Grado Superior Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "IES Aguadulce",
+          "description": "Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos.\nAplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad.\nGestionar bases de datos, interpretando su diseño lógico y verificando integridad, consistencia, seguridad y accesibilidad de los datos.\nGestionar entornos de desarrollo adaptando su configuración en cada caso para permitir el desarrollo y despliegue de aplicaciones.\nDesarrollar aplicaciones multiplataforma con acceso a bases de datos utilizando lenguajes, librerías y herramientas adecuados a las especificaciones.\nIntegrar contenidos gráficos y componentes multimedia en aplicaciones multiplataforma, empleando herramientas específicas y cumpliendo los requerimientos establecidos.\nDesarrollar interfaces gráficos de usuario interactivos y con la usabilidad adecuada, empleando componentes visuales estándar o implementando componentes visuales específicos.\nDesarrollar aplicaciones para teléfonos, PDA y otros dispositivos móviles empleando técnicas y entornos de desarrollo específicos.\nDesarrollar aplicaciones multiproceso y multihilo empleando librerías y técnicas de programación específicas.\nParticipar en la implantación de sistemas ERP-CRM evaluando la utilidad de cada uno de sus módulos.\nGestionar la información almacenada en sistemas ERP-CRM garantizando su integridad.\n\n"
+        },
+        "finishDate": "2018-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
@@ -120,6 +143,10 @@
       },
       {
         "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
         "type": "technology"
       },
       {
