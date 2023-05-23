@@ -24,7 +24,8 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://radw2020.github.io/"
+        "URL": "https://radw2020.github.io/",
+        "description": "blog personal "
       }
     ]
   },
@@ -247,18 +248,6 @@
         {
           "URL": "https://www.linkedin.com/in/raul-jimenez-martin-radw2020/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/4230807/radw2020",
-          "type": "stackoverflow"
-        },
-        {
-          "URL": "https://github.com/RadW2020",
-          "type": "other"
-        },
-        {
-          "URL": "https://twitter.com/RadW2020",
-          "type": "other"
         }
       ],
       "contactMails": [
