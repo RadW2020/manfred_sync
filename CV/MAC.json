@@ -115,6 +115,12 @@
           "name": "Pensamiento creativo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
       }
     ]
   },
