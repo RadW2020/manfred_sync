@@ -115,7 +115,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
         "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "Redis",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
         "type": "technology"
       }
     ],
