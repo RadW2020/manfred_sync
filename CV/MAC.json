@@ -273,6 +273,10 @@
           "type": "technology"
         },
         {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
