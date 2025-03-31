@@ -277,6 +277,10 @@
           "type": "technology"
         },
         {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "Ruby",
           "type": "technology"
         },
