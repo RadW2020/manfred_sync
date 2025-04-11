@@ -293,6 +293,10 @@
           "type": "technology"
         },
         {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
           "name": "Rust",
           "type": "technology"
         },
