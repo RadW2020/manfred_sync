@@ -36,6 +36,68 @@
     "jobs": [
       {
         "organization": {
+          "name": "CROWD Digital"
+        },
+        "roles": [
+          {
+            "name": " Backend Developer",
+            "startDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "Exercise significant ownership across a diverse portfolio of backend projects and infrastructure initiatives.\nDesign, implement, and manage scalable and secure cloud infrastructure on AWS using Terraform (IaC), optimizing for performance and cost-efficiency.\nDevelop and maintain backend APIs and microservices using Nest.js with Typescript supporting various applications, including core platform features, internal backoffices with Next.js, and data pipelines.\nActively participate in architectural discussions, code reviews, and mentoring activities, promoting best practices across backend development."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Aurora",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon S3",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Pulpo"
         },
         "roles": [
